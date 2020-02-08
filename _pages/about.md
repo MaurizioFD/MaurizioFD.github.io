@@ -19,7 +19,7 @@ Research interests
 My current research field is Recommender Systems, in particular the evaluation of deep-learning algorithms and reproducibility.
 
 
-**Watch out!** Have a look at the preprint of the extended version of our reproducibility study (still under review). We welcome your feedback! ["A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"](https://arxiv.org/abs/1911.07698.)
+**Preprint available!** Have a look at the preprint of the extended version of our reproducibility study (still under review). We welcome your feedback! ["A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"](https://arxiv.org/abs/1911.07698.)
 {: .notice}
 
 
