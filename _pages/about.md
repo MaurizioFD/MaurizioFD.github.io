@@ -11,16 +11,17 @@ redirect_from:
 I'm a Ph.D. Student at Politecnico di Milano and I am bad at websites.
 Research interests
 My current research field is Recommender Systems, in particular the evaluation of deep-learning algorithms and reproducibility.
-Short publication list
 
 
 Research interests
 ======
-My current research field is Recommender Systems, in particular the evaluation of deep-learning algorithms and reproducibility.
+My current research field is Recommender Systems, in particular the evaluation of deep-learning algorithms and reproducibility. Check my [research group website](http://recsys.deib.polimi.it/).
+
 
 
 **Preprint available!** Have a look at the preprint of the extended version of our reproducibility study (still under review). We welcome your feedback! ["A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"](https://arxiv.org/abs/1911.07698.)
 {: .notice}
+
 
 
 Short publication list
