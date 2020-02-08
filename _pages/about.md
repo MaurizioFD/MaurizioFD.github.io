@@ -15,17 +15,17 @@ My current research field is Recommender Systems, in particular the evaluation o
 
 Research interests
 ======
-My current research field is Recommender Systems, in particular the evaluation of deep-learning algorithms and reproducibility. Check my [research group website](http://recsys.deib.polimi.it/){target="_blank"}.
+My current research field is Recommender Systems, in particular the evaluation of deep-learning algorithms and reproducibility. Check my <a href="http://recsys.deib.polimi.it" target="_blank">research group website</a>.
 
 
 
-**Preprint available!** Have a look at the preprint of the extended version of our reproducibility study (still under review). We welcome your feedback! ["A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"](https://arxiv.org/abs/1911.07698.){target="_blank"}
+**Preprint available!** Have a look at the preprint of the extended version of our reproducibility study (still under review). We welcome your feedback! <a href="https://arxiv.org/abs/1911.07698" target="_blank">"A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"</a>
 {: .notice}
 
 
 
 Short publication list
 ======
-* **Maurizio Ferrari Dacrema**, Paolo Cremonesi, Dietmar Jannach. ["Are we really making much progress? A worrying analysis of recent neural recommendation approaches"](https://dl.acm.org/doi/10.1145/3298689.3347058){target="_blank"}, RecSys 2019. __Best Paper Award__
-* Yashar Deldjoo, **Maurizio Ferrari Dacrema**, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. ["Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"](https://doi.org/10.1007/s11257-019-09221-y){target="_blank"}, UMUAI 2019.
+* **Maurizio Ferrari Dacrema**, Paolo Cremonesi, Dietmar Jannach. <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>, RecSys 2019. __**Best Paper Award**__
+* Yashar Deldjoo, **Maurizio Ferrari Dacrema**, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" target="_blank">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.
 
