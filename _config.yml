@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maurizio Ferrari Dacrema"
 title_separator          : ""
 name                     : &name "Maurizio Ferrari Dacrema"
-description              : &description "Ph.D. Student at the Department of Electronics Information and Bioengineering (DEIB), Politecnico di Milano, Italy."
+description              : &description "Ph.D. Student at Politecnico di Milano, Italy."
 url                      : https://MaurizioFD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MaurizioFD/MaurizioFD.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maurizio Ferrari Dacrema"
   avatar           : "profile_picture.jpg"
-  bio              : "Ph.D. Student at Politecnico di Milano, Italy."
+  bio              : "Ph.D. Student at the Department of Electronics Information and Bioengineering (DEIB), Politecnico di Milano, Italy."
   location         : "Milano, Italy"
   employer         : 
   pubmed           :
