@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
- You can find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+ You can find a comprehensive list of my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a></u> or <u><a href="https://dblp.uni-trier.de/pers/hd/d/Dacrema:Maurizio_Ferrari">DBLP</a></u>.
 
 
 {% include base_path %}
