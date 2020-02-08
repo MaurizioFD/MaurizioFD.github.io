@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Maurizio Ferrari Dacrema"
-title_separator          : ""
+title_separator          : " - "
 name                     : &name "Maurizio Ferrari Dacrema"
 description              : &description "Ph.D. Student at Politecnico di Milano, Italy."
 url                      : https://MaurizioFD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
