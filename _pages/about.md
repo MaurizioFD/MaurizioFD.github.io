@@ -33,7 +33,7 @@ My current research field is Recommender Systems, in particular the evaluation o
 ### Awards
 
 * **Best Paper Award** at RecSys 2019 for <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>
-* **2018 RecSys Challenge**, 2nd place Creative Track, 4th place Main Track, team __Creamy Fireflies__
+* **2018 RecSys Challenge**, 2nd place Creative Track, 4th place Main Track, team ___Creamy Fireflies___
 
 
 
