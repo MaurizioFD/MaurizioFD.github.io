@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. Student at Politecnico di Milano and I am bad at websites.
-Research interests
-My current research field is Recommender Systems, in particular the evaluation of deep-learning algorithms and reproducibility.
+Hello! I'm a Ph.D. Student at Politecnico di Milano, affiliated with the <a href="http://recsys.deib.polimi.it" target="_blank">RecSys@PoliMi</a> group. 
+
 
 
 Research interests
