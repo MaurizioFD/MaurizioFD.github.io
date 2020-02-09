@@ -23,6 +23,7 @@ My current research field is Recommender Systems, in particular the evaluation o
 
 
 <p>&nbsp;</p>
+
 ### Short publication list
 
 * **Maurizio Ferrari Dacrema**, Paolo Cremonesi, Dietmar Jannach. <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>, RecSys 2019. __**Best Paper Award**__
@@ -30,6 +31,7 @@ My current research field is Recommender Systems, in particular the evaluation o
 
 
 <p>&nbsp;</p>
+
 ### Awards
 
 * **Best Paper Award** at RecSys 2019 for <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>
@@ -37,6 +39,7 @@ My current research field is Recommender Systems, in particular the evaluation o
 
 
 <p>&nbsp;</p>
+
 ### Program Committee
 
 * Conferences: CIKM, KDD, WWW, RecSys
