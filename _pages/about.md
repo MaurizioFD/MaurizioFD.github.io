@@ -23,6 +23,7 @@ My current research field is Recommender Systems, in particular the evaluation o
 
 
 <p>&nbsp;</p>
+<p style="font-size:0.7em">
 
 ### Short publication list
   
@@ -30,7 +31,7 @@ My current research field is Recommender Systems, in particular the evaluation o
 * Yashar Deldjoo, **Maurizio Ferrari Dacrema**, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" target="_blank">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.
 
 
-
+</p>
 <p>&nbsp;</p>
 
 ### Awards
