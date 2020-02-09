@@ -17,5 +17,5 @@ redirect_from:
 
 ### Work experience
 
-* 2016 - today: Research Assistant
-  * Politecnico di Milano, Research topic Recommender systems, Supervisor: Professor Paolo Cremonesi
+* 2016 - today: Research Assistant at Politecnico di Milano:
+  * Research topic: Recommender systems, Supervisor: Professor <u><a href="https://www.deib.polimi.it/eng/people/details/159156" target="_blank">Paolo Cremonesi</a></u>.
