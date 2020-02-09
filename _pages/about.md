@@ -22,21 +22,21 @@ My current research field is Recommender Systems, in particular the evaluation o
 {: .notice}
 
 
-&nbsp
+<p>&nbsp;</p>
 ### Short publication list
 
 * **Maurizio Ferrari Dacrema**, Paolo Cremonesi, Dietmar Jannach. <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>, RecSys 2019. __**Best Paper Award**__
 * Yashar Deldjoo, **Maurizio Ferrari Dacrema**, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" target="_blank">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019.
 
 
-&nbsp
+<p>&nbsp;</p>
 ### Awards
 
 * **Best Paper Award** at RecSys 2019 for <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>
 * **2018 RecSys Challenge**, 2nd place Creative Track, 4th place Main Track, team ___Creamy Fireflies___
 
 
-&nbsp
+<p>&nbsp;</p>
 ### Program Committee
 
 * Conferences: CIKM, KDD, WWW, RecSys
