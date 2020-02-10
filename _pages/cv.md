@@ -26,6 +26,8 @@ redirect_from:
 * 2016 - today: Accreditation on-site visits with the Italian Agency for quality certification and EUR-ACE
 ACE accreditation of engineering courses (<u><a href="https://www.quacing.it/" target="_blank">QUACING</a></u>).
 
+* 2018: TeSLA Project, Adaptive trust e-assessment system (Horizon 2020). Student member of the regular panel for Pilot 3 at the Technical University of Sofia.
+
 * 2016, 2018: Teacher in a training course on the Italian model for the accreditation of universities and a simulation of
 in-site visit by an accreditation commission at Università di Verona and Politecnico di Milano. Teacher in a training course aimed at future accreditation experts, student profile, at ANVUR. 
 
