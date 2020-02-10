@@ -27,5 +27,5 @@ redirect_from:
 ACE accreditation of engineering courses (<u><a href="https://www.quacing.it/" target="_blank">QUACING</a></u>).
 
 * 2016, 2018: Teacher in a training course on the Italian model for the accreditation of universities and a simulation of
-in-site visit by an accreditation commission at Università di Verona and Politecnico di Milano. Teacher in a training course aimed at future evalaution experts, student profile, at ANVUR. 
+in-site visit by an accreditation commission at Università di Verona and Politecnico di Milano. Teacher in a training course aimed at future accreditation experts, student profile, at ANVUR. 
 
