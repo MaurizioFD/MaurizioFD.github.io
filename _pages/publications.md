@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-To find a comprehensive list of my publications please refer to <u><a href="https://scholar.google.it/citations?user=gYzXaPQAAAAJ" target="_blank">Google Scholar</a></u> or <u><a href="https://dblp.uni-trier.de/pers/hd/d/Dacrema:Maurizio_Ferrari" target="_blank">DBLP</a></u>. Below a selection of significant articles I co- authored.
+To find a comprehensive list of my publications please refer to <u><a href="https://scholar.google.it/citations?user=gYzXaPQAAAAJ" target="_blank">Google Scholar</a></u> or <u><a href="https://dblp.uni-trier.de/pers/hd/d/Dacrema:Maurizio_Ferrari" target="_blank">DBLP</a></u>. Below a selection of significant articles I co-authored.
 
 
 ### Short publication list
