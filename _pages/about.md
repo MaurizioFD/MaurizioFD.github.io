@@ -21,9 +21,7 @@ My current research field is Recommender Systems and I am working on the evaluat
 **Preprint available!** Have a look at the preprint of the extended version of our reproducibility study (still under review). We welcome your feedback! <a href="https://arxiv.org/abs/1911.07698" target="_blank">"A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"</a>
 {: .notice}
 
-
 <p>&nbsp;</p>
-
 
 ### Short article selection
   
