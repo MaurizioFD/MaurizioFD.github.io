@@ -14,7 +14,7 @@ Hello! I'm a Ph.D. Student at Politecnico di Milano, affiliated with the <a href
 
 ### Research interests
 
-My current research field is Recommender Systems, in particular the evaluation of deep-learning algorithms and reproducibility of published experimental results.
+My current research field is Recommender Systems and I am working on the evaluation of deep-learning algorithms focusing on the reproducibility of published experimental results.
 
 
 
