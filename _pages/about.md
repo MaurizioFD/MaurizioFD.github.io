@@ -24,7 +24,7 @@ My current research field is Recommender Systems and I am working on the evaluat
 
 ### Short article selection
 
-* **Maurizio Ferrari Dacrema**, Paolo Cremonesi, Dietmar Jannach. <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>, RecSys 2019. __**Best Paper Award**__ . [<a href="https://dblp.uni-trier.de/rec/bibtex/conf/recsys/DacremaCJ19" target="_blank">BibTex</a>]
+* **Maurizio Ferrari Dacrema**, Paolo Cremonesi, Dietmar Jannach. <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>, RecSys 2019. __**Best Long Paper Award**__ . [<a href="https://dblp.uni-trier.de/rec/bibtex/conf/recsys/DacremaCJ19" target="_blank">BibTex</a>]
 
 * Yashar Deldjoo, **Maurizio Ferrari Dacrema**, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" target="_blank">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019. [<a href="https://dblp.uni-trier.de/rec/bibtex/journals/umuai/DeldjooDCECSIC19" target="_blank">BibTex</a>]
 
@@ -34,7 +34,8 @@ My current research field is Recommender Systems and I am working on the evaluat
 
 ### Awards
 
-* **Best Paper Award** at RecSys 2019 for <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>
+* **Best Long Paper Award** at RecSys 2019 for <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>
+* __Nomination for Best reviewer__ at RecSys 2019.
 * **2018 RecSys Challenge**, 2nd place Creative Track, 4th place Main Track, team ___Creamy Fireflies___
 
 
