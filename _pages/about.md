@@ -14,7 +14,7 @@ Hello! I'm a Ph.D. Student at Politecnico di Milano, affiliated with the <a href
 
 ### Research interests
 
-My current research field is Recommender Systems and I am working on the evaluation of deep-learning algorithms focusing on the reproducibility of published experimental results.
+My current research field is Recommender Systems and I am working on the evaluation of deep-learning algorithms focusing on the reproducibility of published experimental results. I am also working on Applied Quantum Machine Learning for RecSys applications.
 
 **Open PhD positions available!** Two fully funded PhD positions on Recommender Systems are available at the RecSys Lab at Politecnico di Miano on the following topics: **Applied Quantum Machine Learning** and **Evaluation of Recommender Systems**! You can find more details on <a href="http://recsys.deib.polimi.it/open-phd-positions/" target="_blank">our group website</a>
 {: .notice}
