@@ -11,7 +11,6 @@ redirect_from:
 Hello! I'm a Ph.D. Student at Politecnico di Milano, affiliated with the <a href="http://recsys.deib.polimi.it" target="_blank">RecSys@PoliMi</a> group. 
 
 
-
 ### Research interests
 
 My current research field is Recommender Systems and I am working on the evaluation of deep-learning algorithms focusing on the reproducibility of published experimental results. I am also working on Applied Quantum Machine Learning for RecSys applications.
