@@ -9,6 +9,11 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    
+    {% if site.google_verify %}
+    <meta name="google-site-verification" content="{{ site.google_verify }}">
+    {% endif %}
+    
   </head>
 
   <body>
@@ -26,10 +31,6 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
-    {% if site.google_verify %}
-    <meta name="google-site-verification" content="{{ site.google_verify }}">
-    {% endif %}
     
   </body>
 </html>
