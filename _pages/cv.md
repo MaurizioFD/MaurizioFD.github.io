@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 ### Education
 
 * BSc. in Computer Science and Engineering, Politecnico di Milano, 2013
