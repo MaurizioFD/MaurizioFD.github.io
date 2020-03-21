@@ -25,7 +25,7 @@ My current research field is Recommender Systems and I am working on the evaluat
 
 ### Short article selection
 
-* **Maurizio Ferrari Dacrema**, Paolo Cremonesi, Dietmar Jannach. <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>, RecSys 2019. __**Best Long Paper Award**__ . [<a href="https://dblp.uni-trier.de/rec/bibtex/conf/recsys/DacremaCJ19" target="_blank">BibTex</a>]
+* **Maurizio Ferrari Dacrema**, Paolo Cremonesi, Dietmar Jannach. <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>, RecSys 2019. __**Best Long Paper Award**__ . <a href="https://arxiv.org/pdf/1907.06902.pdf" target="_blank">(ArXiv)</a> [<a href="https://dblp.uni-trier.de/rec/bibtex/conf/recsys/DacremaCJ19" target="_blank">BibTex</a>]
 
 * Yashar Deldjoo, **Maurizio Ferrari Dacrema**, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" target="_blank">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019. [<a href="https://dblp.uni-trier.de/rec/bibtex/journals/umuai/DeldjooDCECSIC19" target="_blank">BibTex</a>]
 
