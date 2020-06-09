@@ -46,4 +46,4 @@ My current research field is Recommender Systems and I am working on the evaluat
 ### Program Committee
 
 * Conferences: CIKM, KDD, WWW, RecSys
-* Journals: ACM TOIS, Future Generation Computer Systems, Neurocomputing
+* Journals: ACM TOIS, Future Generation Computer Systems, Neurocomputing, IEEE TETC
