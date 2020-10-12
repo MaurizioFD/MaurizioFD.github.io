@@ -14,7 +14,7 @@ redirect_from:
 
 * BSc. in Computer Science and Engineering, Politecnico di Milano, 2013
 * MSc. in Computer Science and Engineering, Politecnico di Milano, 2016
-* Ph.D in Information Technology, Politecnico di Milano, 2020 (expected)
+* Ph.D in Information Technology, Politecnico di Milano, 2020
 
 ### Work experience
 
