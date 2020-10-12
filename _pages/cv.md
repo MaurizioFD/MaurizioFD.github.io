@@ -12,9 +12,9 @@ redirect_from:
 
 ### Education
 
-* BSc. in Computer Science and Engineering, Politecnico di Milano, 2013
-* MSc. in Computer Science and Engineering, Politecnico di Milano, 2016
 * Ph.D. in Information Technology, Politecnico di Milano, 2020
+* MSc. in Computer Science and Engineering, Politecnico di Milano, 2016
+* BSc. in Computer Science and Engineering, Politecnico di Milano, 2013
 
 ### Work experience
 
