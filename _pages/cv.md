@@ -26,6 +26,8 @@ redirect_from:
 
 * 2016 - today: Accreditation on-site visits with the Italian Agency for quality certification and EUR-ACE accreditation of engineering courses (<u><a href="https://www.quacing.it/" target="_blank">QUACING</a></u>).
 
+* 2020: Accreditation Organisation of the Netherlands and Flanders. Member of an evaluation panel for the <u><a href="https://www.nvao.net/en/euniq-project" target="_blank">EUniQ Project</a></u> (Erasmus +) and the University of Luxemburg.
+
 * 2018: TeSLA Project, Adaptive trust e-assessment system (Horizon 2020). Student member of the regular panel for Pilot 3 at the Technical University of Sofia.
 
 * 2016, 2018: Teacher in a training course on the Italian model for the accreditation of universities and a simulation of
