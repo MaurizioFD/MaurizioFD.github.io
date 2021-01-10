@@ -10,11 +10,14 @@ To find a comprehensive list of my publications please refer to <u><a href="http
 
 
 ### Short article selection
-* **Maurizio Ferrari Dacrema**, Paolo Cremonesi, Dietmar Jannach. <a href="https://www.ijcai.org/Proceedings/2020/650" target="_blank">"Methodological Issues in Recommender Systems Research (Extended Abstract)"</a>, IJCAI 2020. __Invited Conference Paper__ . <a href="https://www.ijcai.org/Proceedings/2020/0650.pdf" target="_blank">(PDF)</a> [<a href="https://dblp.uni-trier.de/rec/bibtex/conf/ijcai/DacremaCJ20" target="_blank">BibTex</a>]
+* **Maurizio Ferrari Dacrema**, Simone Boglio, Paolo Cremonesi, Dietmar Jannach. <a href="https://dl.acm.org/doi/10.1145/3434185" target="_blank">"A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"</a>, ACM TOIS 2021. <a href="https://arxiv.org/pdf/1911.07698.pdf" target="_blank">(PDF open)</a>
 
-* **Maurizio Ferrari Dacrema**, Paolo Cremonesi, Dietmar Jannach. <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>, RecSys 2019. __**Best Paper Award**__ . <a href="https://arxiv.org/pdf/1907.06902.pdf" target="_blank">(PDF)</a> [<a href="https://dblp.uni-trier.de/rec/bibtex/conf/recsys/DacremaCJ19" target="_blank">BibTex</a>]
+* **Maurizio Ferrari Dacrema**, Paolo Cremonesi, Dietmar Jannach. <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>, RecSys 2019. __**Best Long Paper Award**__ . <a href="https://arxiv.org/pdf/1907.06902.pdf" target="_blank">(PDF open)</a> [<a href="https://dblp.uni-trier.de/rec/bibtex/conf/recsys/DacremaCJ19" target="_blank">BibTex</a>]
+
+* **Maurizio Ferrari Dacrema**, Paolo Cremonesi, Dietmar Jannach. <a href="https://www.ijcai.org/Proceedings/2020/650" target="_blank">"Methodological Issues in Recommender Systems Research (Extended Abstract)"</a>, IJCAI 2020. __Invited Conference Paper__ . <a href="https://www.ijcai.org/Proceedings/2020/0650.pdf" target="_blank">(PDF open)</a> [<a href="https://dblp.uni-trier.de/rec/bibtex/conf/ijcai/DacremaCJ20" target="_blank">BibTex</a>]
 
 * Yashar Deldjoo, **Maurizio Ferrari Dacrema**, Mihai Gabriel Constantin, Hamid Eghbal-Zadeh, Stefano Cereda, Markus Schedl, Bogdan Ionescu, Paolo Cremonesi. <a href="https://doi.org/10.1007/s11257-019-09221-y" target="_blank">"Movie Genome: Alleviating New Item Cold Start in Movie Recommendation"</a>, UMUAI 2019. [<a href="https://dblp.uni-trier.de/rec/bibtex/journals/umuai/DeldjooDCECSIC19" target="_blank">BibTex</a>]
+
 
 
 
