@@ -15,7 +15,8 @@ Hello! I'm a postdoctoral researcher at Politecnico di Milano, affiliated with t
 
 My current research field is Recommender Systems and I am working on the evaluation of deep-learning algorithms focusing on the reproducibility of published experimental results. I am also working on Applied Quantum Machine Learning for RecSys applications.
 
-**Published on ACM TOIS!** Our paper <a href="https://dl.acm.org/doi/10.1145/3434185" target="_blank">"A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"</a> has been published on ACM TOIS! {: .notice}
+**Published on ACM TOIS!** Our paper <a href="https://dl.acm.org/doi/10.1145/3434185" target="_blank">"A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"</a> has been published on ACM TOIS! 
+{: .notice}
 
 
 
