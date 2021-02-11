@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a postdoctoral researcher at Politecnico di Milano, affiliated with the <a href="http://recsys.deib.polimi.it" target="_blank">RecSys@PoliMi</a> group. 
+Hello! I'm a postdoctoral researcher at Politecnico di Milano, affiliated with the <a href="http://recsys.deib.polimi.it" target="_blank">RecSys@PoliMi</a> group. If you are a student interested in working with us please refer to the <a href="http://recsys.deib.polimi.it/student-faq-work-with-us/" target="_blank">Work With Us</a> page.
 
 
 ### Research interests
