@@ -15,7 +15,7 @@ Hello! I'm a postdoctoral researcher at Politecnico di Milano, affiliated with t
 
 My current research field is Recommender Systems and I am working on the evaluation of deep-learning algorithms focusing on the reproducibility of published experimental results. I am also working on Applied Quantum Machine Learning for RecSys applications.
 
-**Phd Course** Our PhD course on <a href="http://recsys.deib.polimi.it/2020-21-applied-quantum-machine-learning-polimi/" target="_blank">Applied Quantum Machine Learning</a> at Politecnico di Milano is about to begin! 
+**Quantum Computing Lab** Our PhD course on <a href="http://recsys.deib.polimi.it/2020-21-applied-quantum-machine-learning-polimi/" target="_blank">Applied Quantum Machine Learning</a> at Politecnico di Milano is concluded. 
 {: .notice}
 
 **Published on ACM TOIS!** Our paper <a href="https://dl.acm.org/doi/10.1145/3434185" target="_blank">"A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"</a> has been published on ACM TOIS! 
