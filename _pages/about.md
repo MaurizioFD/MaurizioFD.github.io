@@ -15,6 +15,9 @@ Hello! I'm a postdoctoral researcher at Politecnico di Milano, affiliated with t
 
 My current research field is Recommender Systems and I am working on the evaluation of deep-learning algorithms focusing on the reproducibility of published experimental results. I am also working on Applied Quantum Machine Learning for RecSys applications.
 
+**Politecnico di Milano’s** team, coordinated by Maurizio Ferrari Dacrema, Cesare Bernardis and Fernando Benjamin Perez Maurera of our research group, won the first place of the academic part of the RecSys Challenge 2021, sponsored by Twitter. <a href="https://www.deib.polimi.it/eng/news/details/1035" target="_blank">See the news here.</a>
+{: .notice}
+
 **Quantum Computing Lab** Our PhD course on <a href="http://recsys.deib.polimi.it/2020-21-applied-quantum-machine-learning-polimi/" target="_blank">Applied Quantum Machine Learning</a> at Politecnico di Milano is concluded. 
 {: .notice}
 
@@ -42,6 +45,7 @@ My current research field is Recommender Systems and I am working on the evaluat
 * **Best Long Paper Award** at RecSys 2019 for <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>
 * _Nomination for Best reviewer_ at RecSys 2020 and RecSys 2019.
 * **2018 RecSys Challenge**, 2nd place Creative Track, 4th place Main Track, team ___Creamy Fireflies___
+* **2021 RecSys Challenge**, 1st academic team
 
 
 <p>&nbsp;</p>
