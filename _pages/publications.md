@@ -10,6 +10,8 @@ To find a comprehensive list of my publications please refer to <u><a href="http
 
 
 ### Short article selection
+* Riccardo Nembrini, **Maurizio Ferrari Dacrema**, Paolo Cremonesi. <a href="https://doi.org/10.3390/e23080970" target="_blank">"Feature Selection for Recommender Systems with Quantum Computing" (PDF open)</a>. Entropy 2021, 23, 970. 
+* 
 * **Maurizio Ferrari Dacrema**, Simone Boglio, Paolo Cremonesi, Dietmar Jannach. <a href="https://dl.acm.org/doi/10.1145/3434185" target="_blank">"A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"</a>, ACM TOIS 2021. <a href="https://arxiv.org/pdf/1911.07698.pdf" target="_blank">(PDF open)</a>
 
 * **Maurizio Ferrari Dacrema**, Paolo Cremonesi, Dietmar Jannach. <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>, RecSys 2019. __**Best Long Paper Award**__ . <a href="https://arxiv.org/pdf/1907.06902.pdf" target="_blank">(PDF open)</a> [<a href="https://dblp.uni-trier.de/rec/bibtex/conf/recsys/DacremaCJ19" target="_blank">BibTex</a>]
