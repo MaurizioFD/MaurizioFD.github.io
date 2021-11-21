@@ -24,6 +24,8 @@ My current research field is Recommender Systems and I am working on the evaluat
 **Published on ACM TOIS!** Our paper <a href="https://dl.acm.org/doi/10.1145/3434185" target="_blank">"A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"</a> has been published on ACM TOIS! 
 {: .notice}
 
+**Special Issue on Applied Quantum Computing** Check the details <a href="https://www.mdpi.com/journal/electronics/special_issues/quantum_computing_applied" target="_blank">here</a>!
+![Special Issue on Applied Quantum Computing Banner](https://github.com/MaurizioFD/MaurizioFD.github.io/blob/master/images/banner.png)
 
 
 ### Short article selection
