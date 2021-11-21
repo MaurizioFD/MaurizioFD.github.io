@@ -25,8 +25,7 @@ My current research field is Recommender Systems and I am working on the evaluat
 {: .notice}
 
 **Special Issue on Applied Quantum Computing** Check the details <a href="https://www.mdpi.com/journal/electronics/special_issues/quantum_computing_applied" target="_blank">here</a>!
-![Special Issue on Applied Quantum Computing Banner](https://github.com/MaurizioFD/MaurizioFD.github.io/blob/master/images/banner.png)
-
+<img src="https://github.com/MaurizioFD/MaurizioFD.github.io/blob/master/images/banner.png" width=50% height=50%>
 
 ### Short article selection
 * Riccardo Nembrini, **Maurizio Ferrari Dacrema**, Paolo Cremonesi. <a href="https://doi.org/10.3390/e23080970" target="_blank">"Feature Selection for Recommender Systems with Quantum Computing" (PDF open)</a>. Entropy 2021, 23, 970. [<a href="https://dblp.org/rec/journals/entropy/NembriniDC21.html?view=bibtex" target="_blank">BibTex</a>]
