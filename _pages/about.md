@@ -26,7 +26,7 @@ My current research field is Recommender Systems and I am working on the evaluat
 
 **Special Issue on Applied Quantum Computing** Check the details <a href="https://www.mdpi.com/journal/electronics/special_issues/quantum_computing_applied" target="_blank">here</a>!
 
-<img src="https://github.com/MaurizioFD/MaurizioFD.github.io/blob/master/images/banner.png" width=50% height=50%>
+!(Banner Special Issue on Applied Quantum Computing)[https://github.com/MaurizioFD/MaurizioFD.github.io/blob/master/images/Banner_SI_QC_Applied.png]
 
 
 ### Short article selection
