@@ -15,13 +15,14 @@ Hello! I'm a postdoctoral researcher at Politecnico di Milano, affiliated with t
 
 My current research field is Recommender Systems and I am working on the evaluation of deep-learning algorithms focusing on the reproducibility of published experimental results. I am also working on Applied Quantum Machine Learning for RecSys applications.
 
+
+**Published on Nature Scientific Reports!** Our paper <a href="https://www.nature.com/articles/s41598-022-10169-0" target="_blank">"Evaluating the job shop scheduling problem on a D-wave quantum annealer"</a> has been published on Nature Scientific Reports! 
+{: .notice}
+
 **Politecnico di Milano’s** team, coordinated by Maurizio Ferrari Dacrema, Cesare Bernardis and Fernando Benjamin Perez Maurera of our research group, won the first place of the academic part of the RecSys Challenge 2021, sponsored by Twitter. <a href="https://www.deib.polimi.it/eng/news/details/1035" target="_blank">See the news here.</a>
 {: .notice}
 
 **Quantum Computing Lab** Our PhD course on <a href="http://recsys.deib.polimi.it/2020-21-applied-quantum-machine-learning-polimi/" target="_blank">Applied Quantum Machine Learning</a> at Politecnico di Milano is concluded. 
-{: .notice}
-
-**Published on Nature Scientific Reports!** Our paper <a href="https://www.nature.com/articles/s41598-022-10169-0" target="_blank">"Evaluating the job shop scheduling problem on a D-wave quantum annealer"</a> has been published on Nature Scientific Reports! 
 {: .notice}
 
 **Published on ACM TOIS!** Our paper <a href="https://dl.acm.org/doi/10.1145/3434185" target="_blank">"A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"</a> has been published on ACM TOIS! 
