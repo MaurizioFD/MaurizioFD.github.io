@@ -21,6 +21,9 @@ My current research field is Recommender Systems and I am working on the evaluat
 **Quantum Computing Lab** Our PhD course on <a href="http://recsys.deib.polimi.it/2020-21-applied-quantum-machine-learning-polimi/" target="_blank">Applied Quantum Machine Learning</a> at Politecnico di Milano is concluded. 
 {: .notice}
 
+**Published on Nature Scientific Reports!** Our paper <a href="https://www.nature.com/articles/s41598-022-10169-0" target="_blank">"Evaluating the job shop scheduling problem on a D-wave quantum annealer"</a> has been published on Nature Scientific Reports! 
+{: .notice}
+
 **Published on ACM TOIS!** Our paper <a href="https://dl.acm.org/doi/10.1145/3434185" target="_blank">"A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"</a> has been published on ACM TOIS! 
 {: .notice}
 
@@ -30,6 +33,8 @@ My current research field is Recommender Systems and I am working on the evaluat
 
 
 ### Short article selection
+* Costantino Carugno, **Maurizio Ferrari Dacrema**, Paolo Cremonesi. <a href="https://www.nature.com/articles/s41598-022-10169-0" target="_blank">"Evaluating the job shop scheduling problem on a D-wave quantum annealer" (PDF open)</a>. Nature Scientific Reports 2022, 1, 12. [<a href="https://raw.githubusercontent.com/MaurizioFD/MaurizioFD.github.io/master/bibtex/scrirep22_carugno.txt" target="_blank">BibTex</a>]
+* 
 * Riccardo Nembrini, **Maurizio Ferrari Dacrema**, Paolo Cremonesi. <a href="https://doi.org/10.3390/e23080970" target="_blank">"Feature Selection for Recommender Systems with Quantum Computing" (PDF open)</a>. Entropy 2021, 23, 970. [<a href="https://dblp.org/rec/journals/entropy/NembriniDC21.html?view=bibtex" target="_blank">BibTex</a>]
 
 * **Maurizio Ferrari Dacrema**, Simone Boglio, Paolo Cremonesi, Dietmar Jannach. <a href="https://dl.acm.org/doi/10.1145/3434185" target="_blank">"A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research"</a>, ACM TOIS 2021. <a href="https://arxiv.org/pdf/1911.07698.pdf" target="_blank">(PDF open)</a> [<a href="https://dblp.org/rec/journals/tois/DacremaBCJ21.html?view=bibtex" target="_blank">BibTex</a>]
