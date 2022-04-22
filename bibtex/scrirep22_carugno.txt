@@ -1,0 +1,16 @@
+@article{Carugno2022,
+  author={Carugno, Costantino
+  and Ferrari Dacrema, Maurizio
+  and Cremonesi, Paolo},
+  title={Evaluating the job shop scheduling problem on a D-wave quantum annealer},
+  journal={Nature Scientific Reports},
+  year={2022},
+  month={Apr},
+  day={21},
+  volume={12},
+  number={1},
+  pages={6539},
+  issn={2045-2322},
+  doi={10.1038/s41598-022-10169-0},
+  url={https://doi.org/10.1038/s41598-022-10169-0}
+}
