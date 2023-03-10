@@ -29,7 +29,7 @@ My current research field is Recommender Systems and I am working on the evaluat
 ### Short article selection
 * Costantino Carugno, **Maurizio Ferrari Dacrema**, Paolo Cremonesi. <a href="https://www.nature.com/articles/s41598-022-10169-0" target="_blank">"Evaluating the job shop scheduling problem on a D-wave quantum annealer" (PDF open)</a>. Nature Scientific Reports 2022, 1, 12. [<a href="https://raw.githubusercontent.com/MaurizioFD/MaurizioFD.github.io/master/bibtex/scrirep22_carugno.txt" target="_blank">BibTex</a>]
 
-* **Maurizio Ferrari Dacrema**, Nicolò Felicioni, and Paolo Cremonesi. <a href="https://doi.org/10.3389/fdata.2022.910030" target="_blank">"Offline evaluation of recommender systems in a user interface with multiple carousels"</a>. Frontiers Big Data, 5, 21 pages, 2022.
+* **Maurizio Ferrari Dacrema**, Nicolò Felicioni, and Paolo Cremonesi. <a href="https://doi.org/10.3389/fdata.2022.910030" target="_blank">"Offline evaluation of recommender systems in a user interface with multiple carousels" (PDF open)</a>. Frontiers Big Data, 5, 21 pages, 2022.
 
 * Riccardo Nembrini, **Maurizio Ferrari Dacrema**, Paolo Cremonesi. <a href="https://doi.org/10.3390/e23080970" target="_blank">"Feature Selection for Recommender Systems with Quantum Computing" (PDF open)</a>. Entropy 2021, 23, 970. [<a href="https://dblp.org/rec/journals/entropy/NembriniDC21.html?view=bibtex" target="_blank">BibTex</a>]
 
