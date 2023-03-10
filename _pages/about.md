@@ -47,7 +47,7 @@ My current research field is Recommender Systems and I am working on the evaluat
 
 * **Best Long Paper Award** at RecSys 2019 for <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>
 * **Best Academic Team at the Twitter Challenge**, 15th ACM Conference on Recommender Systems (RecSys 2021)
-* **Spotify Challenge**, 12th ACM Conference on Recommender Systems (RecSys 2018), 2nd place Creative Track, 4th place Main Track, team ___Creamy Fireflies___
+* **Spotify Challenge**, 2nd place Creative Track, 4th place Main Track, 12th ACM Conference on Recommender Systems (RecSys 2018), team ___Creamy Fireflies___
 * **Best Reviewer**, 31st ACM International Conference on Information and Knowledge Management (CIKM 2022)
 * * _Nomination for Best reviewer_ at RecSys 2020 and RecSys 2019.
 
