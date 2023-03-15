@@ -18,9 +18,11 @@ redirect_from:
 
 ### Work experience
 
-* 2016 - today: Research Assistant at Politecnico di Milano. Research topic: Recommender systems, Supervisor: Professor <u><a href="https://www.deib.polimi.it/eng/people/details/159156" target="_blank">Paolo Cremonesi</a></u>.
+* 2023 - today: Assistant Professor at Politecnico di Milano.
 
-* 2014 - today: Teaching Assistant, Lab Assistant and Lab Tutor for several MSc. and BSc. courses at Politecnico di Milano. See [Teaching](teaching.html) for more details.
+* 2016 - 2023: Research Assistant at Politecnico di Milano. Research topic: Recommender systems, Supervisor: Professor <u><a href="https://www.deib.polimi.it/eng/people/details/159156" target="_blank">Paolo Cremonesi</a></u>.
+
+* 2014 - 2023: Teaching Assistant, Lab Assistant and Lab Tutor for several MSc. and BSc. courses at Politecnico di Milano. See [Teaching](teaching.html) for more details.
 
 * 2015 - today: Accreditation on-site visits with the Italian National Agency For The Evaluation Of Universities And Research Institutes (<u><a href="https://www.anvur.it/en/homepage/" target="_blank">ANVUR</a></u>). Enrolled in the register of experts in evaluation Student profile since 2014 and Coordinator profile since 2019.
 
