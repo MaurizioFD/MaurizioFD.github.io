@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maurizio Ferrari Dacrema"
 title_separator          : " - "
 name                     : &name "Maurizio Ferrari Dacrema"
-description              : &description "Personal website of Maurizio Ferrari Dacrema, Postdoc at Politecnico di Milano, Italy."
+description              : &description "Personal website of Maurizio Ferrari Dacrema, Assistant Professor at Politecnico di Milano, Italy."
 url                      : https://MaurizioFD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MaurizioFD/MaurizioFD.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @Maurizio_fd
 facebook:
   username               :
   app_id                 :
