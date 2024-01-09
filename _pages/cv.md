@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[Click here to download my academic CV.](files/Maurizio_FD_Academic_CV_jan_24.pdf)
 
 ### Education
 
