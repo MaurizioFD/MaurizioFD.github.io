@@ -20,12 +20,6 @@ Hello! I'm an Assistant Professor at Politecnico di Milano, affiliated with the 
 **Accepted at NeurIPS!** Our paper <a href="https://openreview.net/forum?id=uFSrUpapQ5K" target="_blank"> "Off-Policy Evaluation with Deficient Support Using Side Information" </a> has been accepted at NeurIPS! 
 {: .notice}
 
-**Published on Nature Scientific Reports!** Our paper <a href="https://www.nature.com/articles/s41598-022-10169-0" target="_blank">"Evaluating the job shop scheduling problem on a D-wave quantum annealer"</a> has been published on Nature Scientific Reports! 
-{: .notice}
-
-**Quantum Computing Lab** Our PhD course on <a href="http://recsys.deib.polimi.it/2020-21-applied-quantum-machine-learning-polimi/" target="_blank">Applied Quantum Machine Learning</a> at Politecnico di Milano is concluded. 
-{: .notice}
-
 
 
 ### Short article selection
