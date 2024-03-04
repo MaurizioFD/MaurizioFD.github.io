@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to download my academic CV.](https://github.com/MaurizioFD/MaurizioFD.github.io/blob/80cb56760a9d33d6b71af9f90c260898b9e323d9/files/Maurizio_FD_Academic_CV.pdf?raw=true)
+[Click here to download my academic CV.](https://github.com/MaurizioFD/MaurizioFD.github.io/blob/bf773ad58a5bcb65b7da6e25637f903c9d7adb68/files/Maurizio_FD_Academic_CV.pdf?raw=true)
 
 ### Education
 
