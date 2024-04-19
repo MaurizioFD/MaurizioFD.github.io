@@ -43,9 +43,9 @@ Hello! I'm an Assistant Professor at Politecnico di Milano, affiliated with the 
 
 * **Best Long Paper Award** at RecSys 2019 for <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>
 * **“Prof. Florian Daniel” Award**,  Best doctoral thesis in Computer Science Engineering, DEIB, Politecnico di Milano
-* **Best Academic Team at the ShareChat Challenge**, 17th ACM Conference on Recommender Systems (RecSys 2023)
-* **Best Academic Team at the Twitter Challenge**, 15th ACM Conference on Recommender Systems (RecSys 2021)
-* **Spotify Challenge**, 2nd place Creative Track, 4th place Main Track, 12th ACM Conference on Recommender Systems (RecSys 2018), team ___Creamy Fireflies___
+* **Best Academic Team at the ACM RecSys Challenge**, sponsored by **ShareChat** at the 17th ACM Conference on Recommender Systems (RecSys 2023)
+* **Best Academic Team at the ACM RecSys Challenge**, sponsored by **Twitter** at the 15th ACM Conference on Recommender Systems (RecSys 2021)
+* **2nd place at the Creative Track of the ACM RecSys Challenge** (4th place overall), sponsored by **Spotify** at the 12th ACM Conference on Recommender Systems (RecSys 2018), team ___Creamy Fireflies___
 * **Best Reviewer**, 31st ACM International Conference on Information and Knowledge Management (CIKM 2022)
 *  _Nomination for Best reviewer_ at RecSys 2020 and RecSys 2019
 
