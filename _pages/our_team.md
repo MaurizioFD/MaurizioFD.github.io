@@ -12,7 +12,7 @@ If you are a master student interested in working with us, a prospective PhD stu
 
 ### EQTC 2024 @ Hannover
 Our PhD students on Quantum Computing (and myself) at the European Quantum Technologies Conference 2023
-<img src="https://raw.githubusercontent.com/MaurizioFD/MaurizioFD.github.io/master/images/EQTC2024.jpg" width="640" height="480" alt="Our team at the at the European Quantum Technologies Conference 2023">
+<img src="https://raw.githubusercontent.com/MaurizioFD/MaurizioFD.github.io/master/images/EQTC_2024.jpg" width="640" height="480" alt="Our team at the at the European Quantum Technologies Conference 2023">
 
 
 ### RecSys challenge 2018 @ Vancouver
