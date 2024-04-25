@@ -10,7 +10,7 @@ Check our <a href="http://recsys.deib.polimi.it" target="_blank">RecSys</a> or <
 If you are a master student interested in working with us, a prospective PhD student or a PhD student looking for an internship please refer to the <a href="http://recsys.deib.polimi.it/student-faq-work-with-us/" target="_blank">Work With Us</a> page.
 
 
-### EQTC 2024 @ Hannover
+### EQTC 2023 @ Hannover
 Our PhD students on Quantum Computing (and myself) at the European Quantum Technologies Conference 2023
 <img src="https://raw.githubusercontent.com/MaurizioFD/MaurizioFD.github.io/master/images/EQTC_2024.jpg" width="640" height="480" alt="Our team at the at the European Quantum Technologies Conference 2023">
 
