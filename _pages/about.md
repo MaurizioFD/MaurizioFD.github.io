@@ -16,6 +16,9 @@ Hello! I'm an Assistant Professor at Politecnico di Milano, affiliated with the 
 * Applied Quantum Computing: design, evaluation and benchmarking of machine learning algorithms on quantum computers and use of machine learning to benefit current generation quantum computing hardware
 * Recommender Systems: design and evaluation of algorithms for recommender systems
 
+**SIGIR 2024!** Our proposed tutorial "Using and Evaluating Quantum Computing for Information Retrieval and Recommender Systems" has been accepted at SIGIR 2024! 
+{: .notice}
+
 **QuantumCLEF!** Check out our <a href="[https://openreview.net/forum?id=uFSrUpapQ5K](https://qclef.dei.unipd.it/)" target="_blank"> QuantumCLEF </a> lab! We provide access to a real quantum annealer (D-Wave) to participants, the goal is to develop and test feature selection and clustering algorithms for Recommender Systems and Information Retrieval tasks! 
 {: .notice}
 
@@ -54,5 +57,5 @@ Hello! I'm an Assistant Professor at Politecnico di Milano, affiliated with the 
 
 ### Program Committee
 
-* Conferences: SIGIR, CIKM, KDD, WWW, RecSys
-* Journals: ACM TOIS, ACM TORS, ACM TSC, Future Generation Computer Systems, Neurocomputing, IEEE TETC, IEEE Transactions on Multimedia, Computers and Security, Information Processing & Management
+* Conferences: RecSys, SIGIR, KDD, CIKM, WWW, WSDM, UMAP
+* Journals: Quantum Information Processing (QIP), ACM Transactions on Information Systems (TOIS), ACM Transactions on Recommender Systems (TORS), Future Generation Computer Systems, Neurocomputing, IEEE Transactions on Multimedia, Computers and Security, Information Processing & Management
