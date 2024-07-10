@@ -19,7 +19,7 @@ redirect_from:
 
 ### Career
 
-* 2023 - today: *Assistant Professor* at Politecnico di Milano.
+* 2023 - today: **Assistant Professor* at Politecnico di Milano.
 
 * 2020 - 2023: **Post-Doc Researcher**. Research topic: Recommender systems, Supervisor: Professor <u><a href="https://www.deib.polimi.it/eng/people/details/159156" target="_blank">Paolo Cremonesi</a></u>.
 
