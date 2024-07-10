@@ -13,26 +13,22 @@ redirect_from:
 
 ### Education
 
-* Ph.D. in Information Technology, Politecnico di Milano, 2020
-* MSc. in Computer Science and Engineering, Politecnico di Milano, 2016
-* BSc. in Computer Science and Engineering, Politecnico di Milano, 2013
+* Ph.D. in Information Technology, Politecnico di Milano, 2016-2020
+* MSc. in Computer Science and Engineering, Politecnico di Milano, 2013-2016
+* BSc. in Computer Science and Engineering, Politecnico di Milano, 2009-2013
 
-### Work experience
+### Career
 
 * 2023 - today: Assistant Professor at Politecnico di Milano.
 
-* 2016 - 2023: Research Assistant at Politecnico di Milano. Research topic: Recommender systems, Supervisor: Professor <u><a href="https://www.deib.polimi.it/eng/people/details/159156" target="_blank">Paolo Cremonesi</a></u>.
+* 2020 - 2023: Post-Doc Researcher. Research topic: Recommender systems, Supervisor: Professor <u><a href="https://www.deib.polimi.it/eng/people/details/159156" target="_blank">Paolo Cremonesi</a></u>.
+
+* 2019: Visiting PhD Student, Alpen-Adria-Universität Klagenfurt, Austria (march-june).
+
+* 2016 - 2020: Ph.D. Student. Research topic: Recommender systems, Supervisor: Professor <u><a href="https://www.deib.polimi.it/eng/people/details/159156" target="_blank">Paolo Cremonesi</a></u>.
 
 * 2014 - 2023: Teaching Assistant, Lab Assistant and Lab Tutor for several MSc. and BSc. courses at Politecnico di Milano. See [Teaching](teaching.html) for more details.
 
-* 2015 - today: Accreditation on-site visits with the Italian National Agency For The Evaluation Of Universities And Research Institutes (<u><a href="https://www.anvur.it/en/homepage/" target="_blank">ANVUR</a></u>). Enrolled in the register of experts in evaluation Student profile since 2014 and Coordinator profile since 2019.
+* 2015 - today: Evaluation Expert. I participated in 30+ National Accreditations and International Evaluations of Higher Education Institutions with: the Italian National Agency for the Evaluation of Universities and Research Institutes (<u><a href="https://www.anvur.it/en/homepage/" target="_blank">ANVUR</a></u>), the Italian Agency for the Quality Certification and EUR-ACE Accreditation of Engineering Programs (<u><a href="https://www.quacing.it/" target="_blank">QUACING</a></u>), the Turkish Higher Education Quality Council (<u><a href="https://yokak.gov.tr/Home" target="_blank">THEQC</a></u>), the Accreditation Organisation of the Netherlands and Flanders (<u><a href="https://www.nvao.net/en" target="_blank">NVAO</a></u>), the Agència per a la Qualitat del Sistema Universitari de Catalunya (<u><a href="https://www.aqu.cat/en/" target="_blank">AQU</a></u>).
 
-* 2016 - today: Accreditation on-site visits with the Italian Agency for quality certification and EUR-ACE accreditation of engineering courses (<u><a href="https://www.quacing.it/" target="_blank">QUACING</a></u>).
-
-* 2020: Accreditation Organisation of the Netherlands and Flanders. Member of an evaluation panel for the <u><a href="https://www.nvao.net/en/euniq-project" target="_blank">EUniQ Project</a></u> (Erasmus +) and the University of Luxemburg.
-
-* 2018: TeSLA Project, Adaptive trust e-assessment system (Horizon 2020). Student member of the regular panel for Pilot 3 at the Technical University of Sofia.
-
-* 2016, 2018: Teacher in a training course on the Italian model for the accreditation of universities and a simulation of
-in-site visit by an accreditation commission at Università di Verona and Politecnico di Milano. Teacher in a training course aimed at future accreditation experts, student profile, at ANVUR. 
 
