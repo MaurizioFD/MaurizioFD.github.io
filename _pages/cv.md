@@ -19,8 +19,10 @@ redirect_from:
 
 ### Career
 
+* 2025: **Visiting Researcher**, Superconducting Quantum Materials and Systems (SQMS) Center, Fermi National Accelerator Laboratory, USA, (march-may).
+  
 * 2023 - today: **Assistant Professor** at Politecnico di Milano.
-
+ 
 * 2020 - 2023: **Post-Doc Researcher**. Research topic: Recommender systems, Supervisor: Professor <u><a href="https://www.deib.polimi.it/eng/people/details/159156" target="_blank">Paolo Cremonesi</a></u>.
 
 * 2019: **Visiting PhD Student**, Alpen-Adria-Universität Klagenfurt, Austria (march-june).
