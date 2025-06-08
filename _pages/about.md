@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm an Assistant Professor at Politecnico di Milano, affiliated with the <a href="http://recsys.deib.polimi.it" target="_blank">RecSys</a> group and the <a href="https://www.quantum.polimi.it/" target="_blank">QCLab</a>. If you are a student interested in working with us please refer to the <a href="http://recsys.deib.polimi.it/student-faq-work-with-us/" target="_blank">Work With Us</a> page.
+Hello! Computer science engineer by training, I work on the intersection of machine learning and quantum computing as Assistant Professor at Politecnico di Milano, where I am a member of the <a href="http://recsys.deib.polimi.it" target="_blank">RecSys</a> group and the <a href="https://www.quantum.polimi.it/" target="_blank">Quantum Computing Lab</a>.
+If you are a student interested in working with us please refer to the <a href="http://recsys.deib.polimi.it/student-faq-work-with-us/" target="_blank">Work With Us</a> page.
 
 
 ### Research interests
+My research spans two quite different areas, which I find offer many methods and ideas to draw inspiration from.
 
 * Applied Quantum Computing: design, evaluation and benchmarking of machine learning algorithms on quantum computers and use of machine learning to benefit current generation quantum computing hardware
 * Recommender Systems: design and evaluation of algorithms for recommender systems
@@ -21,8 +23,6 @@ Hello! I'm an Assistant Professor at Politecnico di Milano, affiliated with the 
 
 **QuantumCLEF!** Check out our <a href="[https://openreview.net/forum?id=uFSrUpapQ5K](https://qclef.dei.unipd.it/)" target="_blank"> QuantumCLEF </a> lab! We provide access to a real quantum annealer (D-Wave) to participants, the goal is to develop and test feature selection and clustering algorithms for Recommender Systems and Information Retrieval tasks! 
 {: .notice}
-
-
 
 
 ### Short article selection
