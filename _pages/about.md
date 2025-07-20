@@ -46,7 +46,7 @@ My research spans two quite different areas, which I find offer many methods and
 
 * **Best Long Paper Award** at RecSys 2019 for <a href="https://dl.acm.org/doi/10.1145/3298689.3347058" target="_blank">"Are we really making much progress? A worrying analysis of recent neural recommendation approaches"</a>
 * **“Prof. Florian Daniel” Award**,  Best doctoral thesis in Computer Science Engineering, DEIB, Politecnico di Milano
-* **Forst Prize on the Academic Track at the ACM RecSys Challenge**, sponsored by **Synerise** at the 19th ACM Conference on Recommender Systems (RecSys 2025)
+* **First Prize on the Academic Track at the ACM RecSys Challenge**, sponsored by **Synerise** at the 19th ACM Conference on Recommender Systems (RecSys 2025)
 * **Best Academic Team at the ACM RecSys Challenge**, sponsored by **Ekstra Bladet** at the 18th ACM Conference on Recommender Systems (RecSys 2024)
 * **Best Academic Team at the ACM RecSys Challenge**, sponsored by **ShareChat** at the 17th ACM Conference on Recommender Systems (RecSys 2023)
 * **Best Academic Team at the ACM RecSys Challenge**, sponsored by **Twitter** at the 15th ACM Conference on Recommender Systems (RecSys 2021)
