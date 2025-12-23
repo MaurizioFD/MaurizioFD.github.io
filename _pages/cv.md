@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to download my academic CV.](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?evn_downloadcv=evento&id_cv=27341340&rnd=0.29889425415468596)
+[Click here to download my academic CV.](https://github.com/MaurizioFD/MaurizioFD.github.io/raw/master/files/Maurizio_FD_Academic_CV.pdf)
 
 ### Education
 
