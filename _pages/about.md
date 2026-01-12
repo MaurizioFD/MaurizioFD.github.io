@@ -18,14 +18,21 @@ My research spans two quite different areas, which I find offer many methods and
 * **Quantum Computing**: design of machine learning methods to support the development of quantum computing, including the automatic construction and optimization of ansatzes, qubit mapping, and noise mitigation
 * **Recommender Systems**: design and evaluation of algorithms for recommender systems
 
+**Just Accepted!** Our paper "Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch" has just been accepted at ACM Transactions on Recommender Systems (TORS)! The preprint is available on <a href="https://arxiv.org/abs/2505.09364" target="_blank">ArXiv</a>.
+{: .notice}
+
+**Just Accepted!** Our paper "Minor Embedding for Quantum Annealing with Reinforcement Learning" has just been accepted at Quantum Machine Intelligence (QUMI)! The preprint is available on <a href="https://arxiv.org/abs/2507.16004" target="_blank">ArXiv</a>.
+{: .notice}
+
+**Just Accepted!** Our paper "Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender Systems Papers Based on Message Passing" has just been accepted at ACM Transactions on Information Systems (TOIS)! The preprint is available on <a href="https://arxiv.org/abs/2503.07823" target="_blank">ArXiv</a>.
+{: .notice}
+
 
 **RecSys Challenge 2025** Politecnico di Milano’s team, coordinated by Maurizio Ferrari Dacrema and Andrea Pisani, won the first prize for the academic track of the RecSys Challenge 2025, sponsored by Synerise! 
 {: .notice}
 
-**Just Accepted!** Our paper "Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender Systems Papers Based on Message Passing" has just been accepted at ACM Transactions on Information Systems (TOIS)!
-{: .notice}
 
-**QuantumCLEF!** Check out our <a href="[https://openreview.net/forum?id=uFSrUpapQ5K](https://qclef.dei.unipd.it/)" target="_blank"> QuantumCLEF </a> lab! We provide access to a real quantum annealer (D-Wave) to participants, the goal is to develop and test feature selection and clustering algorithms for Recommender Systems and Information Retrieval tasks! 
+**QuantumCLEF!** Check out our <a href="[https://openreview.net/forum?id=uFSrUpapQ5K](https://qclef.dei.unipd.it/)" target="_blank"> QuantumCLEF</a> lab! We provide access to a real quantum annealer (D-Wave) to participants, the goal is to develop and test feature selection and clustering algorithms for Recommender Systems and Information Retrieval tasks! 
 {: .notice}
 
 
