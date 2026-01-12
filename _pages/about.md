@@ -29,7 +29,7 @@ My research spans two quite different areas, which I find offer many methods and
 
 
 **RecSys Challenge 2025** Politecnico di Milano’s team, coordinated by Maurizio Ferrari Dacrema and Andrea Pisani, won the first prize for the academic track of the RecSys Challenge 2025, sponsored by Synerise! 
-{: .notice}
+{: .notice--info}
 
 
 **QuantumCLEF!** Check out our <a href="[https://openreview.net/forum?id=uFSrUpapQ5K](https://qclef.dei.unipd.it/)" target="_blank"> QuantumCLEF</a> lab! We provide access to a real quantum annealer (D-Wave) to participants, the goal is to develop and test feature selection and clustering algorithms for Recommender Systems and Information Retrieval tasks! 
