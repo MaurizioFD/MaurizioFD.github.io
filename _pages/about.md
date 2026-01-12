@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Computer science engineer by training, I work on the intersection of machine learning and quantum computing as Assistant Professor at Politecnico di Milano, where I am a member of the <a href="http://recsys.deib.polimi.it" target="_blank">RecSys</a> group and the <a href="https://www.quantum.polimi.it/" target="_blank">Quantum Computing Lab</a>.
+Hello! Computer science engineer by training, I work on the intersection of machine learning and quantum computing as Assistant Professor at Politecnico di Milano, where I am a member of the <a href="https://remaplab.deib.polimi.it/" target="_blank">ReMAP Lab</a> and the <a href="https://www.quantum.polimi.it/" target="_blank">Quantum Computing Lab</a>.
 If you are a student interested in working with us please refer to the <a href="http://recsys.deib.polimi.it/student-faq-work-with-us/" target="_blank">Work With Us</a> page.
 
 
